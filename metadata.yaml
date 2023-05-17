@@ -1,0 +1,34 @@
+_repo: Maantiede-ja-loytoretket-4-b-Uusin-aika-17-vuosisadan-alusta-nykyaikaan-loppupuoli_70428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    - Nystrom, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+    wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+description: ''
+gutenberg_issued: '2023-03-31'
+identifiers:
+  gutenberg: '70428'
+language: fi
+pgterms:marc905: 20221125050621inha
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography'
+- !lcc 'G'
+- GITenberg
+title: 'Maantiede ja löytöretket 4 : $b Uusin aika 17.-vuosisadan alusta nykyaikaan
+  (loppupuoli)'
+url: http://www.gutenberg.org/ebooks/70428
