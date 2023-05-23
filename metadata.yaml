@@ -1,5 +1,8 @@
 _repo: Maantiede-ja-loytoretket-4-b-Uusin-aika-17-vuosisadan-alusta-nykyaikaan-loppupuoli_70428
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Inha, Into Konrad
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4411
     wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70428#Maantiede-ja-loytoretket-4-b-Uusin-aika-17-vuosisadan-alusta-nykyaikaan-loppupuoli
 gutenberg_issued: '2023-03-31'
 identifiers:
   gutenberg: '70428'
